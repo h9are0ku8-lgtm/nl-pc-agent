@@ -1,8 +1,14 @@
+# dependencies
 node_modules
-dist
+.next
+out
+
+# secrets
 .env
 .env.local
+
+# OS / IDE
 .DS_Store
-workspace
-*.xlsx
-*.csv
+output/.DS_Store
+output/**/.DS_Store
+*.log

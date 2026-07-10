@@ -1,0 +1,34 @@
+[
+  {
+    "姓": "山田",
+    "名": "太郎",
+    "メールアドレス": "yamada.taro@example.co.jp",
+    "請求額": "7,500円",
+    "ウェブサイト": "https://example.co.jp/yamada",
+    "操作": "編集 / 削除"
+  },
+  {
+    "姓": "佐藤",
+    "名": "花子",
+    "メールアドレス": "sato.hanako@example.co.jp",
+    "請求額": "12,000円",
+    "ウェブサイト": "https://example.co.jp/sato",
+    "操作": "編集 / 削除"
+  },
+  {
+    "姓": "鈴木",
+    "名": "一郎",
+    "メールアドレス": "suzuki.ichiro@example.co.jp",
+    "請求額": "5,400円",
+    "ウェブサイト": "https://example.co.jp/suzuki",
+    "操作": "編集 / 削除"
+  },
+  {
+    "姓": "田中",
+    "名": "美咲",
+    "メールアドレス": "tanaka.misaki@example.co.jp",
+    "請求額": "9,800円",
+    "ウェブサイト": "https://example.co.jp/tanaka",
+    "操作": "編集 / 削除"
+  }
+]

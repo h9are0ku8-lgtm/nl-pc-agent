@@ -1,0 +1,5 @@
+﻿姓,名,メールアドレス,請求額,ウェブサイト,操作
+山田,太郎,yamada.taro@example.co.jp,"7,500円",https://example.co.jp/yamada,編集 / 削除
+佐藤,花子,sato.hanako@example.co.jp,"12,000円",https://example.co.jp/sato,編集 / 削除
+鈴木,一郎,suzuki.ichiro@example.co.jp,"5,400円",https://example.co.jp/suzuki,編集 / 削除
+田中,美咲,tanaka.misaki@example.co.jp,"9,800円",https://example.co.jp/tanaka,編集 / 削除
